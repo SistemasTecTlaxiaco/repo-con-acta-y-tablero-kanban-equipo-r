@@ -1,1 +1,1 @@
-#Contenido y un Sistema de Insignias para Stellar
+# Contenido y un Sistema de Insignias para Stellar

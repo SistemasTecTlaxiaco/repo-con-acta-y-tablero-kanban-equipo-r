@@ -1,1 +1,1 @@
-[![Review Assignment Due Date](https://github.com/SistemasTecTlaxiaco/repo-con-acta-y-tablero-kanban-equipo-r.wiki.git)]()
+[![Review Assignment Due Date](https://github.com/SistemasTecTlaxiaco/repo-con-acta-y-tablero-kanban-equipo-r.wiki.git)](https://github.com/SistemasTecTlaxiaco/repo-con-acta-y-tablero-kanban-equipo-r.wiki.git)
